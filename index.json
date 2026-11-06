@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "antsibull-nox",
+  "versions": [
+    {
+      "commit": "4e731b2fc8dc4f2fe1e8f0f4bf816b8f5ffa85f1",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:32:31.599086+00:00"
+    }
+  ]
+}
